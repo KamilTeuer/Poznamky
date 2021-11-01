@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch index",
+            "request": "launch",
+            "mainClass": "java.index",
+            "projectName": "VZOR_8e0c536f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "VZOR_8e0c536f"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaCviceni",
+            "request": "launch",
+            "mainClass": "javaCviceni",
+            "projectName": "VZOR_8e0c536f"
+        }
+    ]
+}
